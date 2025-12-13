@@ -1,0 +1,11 @@
+C:\Users\StepOne\source\repos\Projects\Projection\bin\Debug\Projection.exe.config
+C:\Users\StepOne\source\repos\Projects\Projection\bin\Debug\Projection.exe
+C:\Users\StepOne\source\repos\Projects\Projection\bin\Debug\Projection.pdb
+C:\Users\StepOne\source\repos\Projects\Projection\bin\Debug\FunctionalProgramming.exe
+C:\Users\StepOne\source\repos\Projects\Projection\bin\Debug\FunctionalProgramming.pdb
+C:\Users\StepOne\source\repos\Projects\Projection\bin\Debug\FunctionalProgramming.exe.config
+C:\Users\StepOne\source\repos\Projects\Projection\obj\Debug\Projection.csproj.AssemblyReference.cache
+C:\Users\StepOne\source\repos\Projects\Projection\obj\Debug\Projection.csproj.CoreCompileInputs.cache
+C:\Users\StepOne\source\repos\Projects\Projection\obj\Debug\Projection.csproj.Up2Date
+C:\Users\StepOne\source\repos\Projects\Projection\obj\Debug\Projection.exe
+C:\Users\StepOne\source\repos\Projects\Projection\obj\Debug\Projection.pdb

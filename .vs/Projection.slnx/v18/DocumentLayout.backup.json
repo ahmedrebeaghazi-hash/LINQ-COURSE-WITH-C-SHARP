@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\StepOne\\source\\repos\\Projects\\Projection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8A558E-1F1F-45DA-810F-EE26F126C839}|..\\PROJECTIONZIP\\PROJECTIONZIP.csproj|c:\\users\\stepone\\source\\repos\\projects\\projectionzip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0DE58D-3BDC-4EA4-9154-D6B1C4C9DE61}|..\\Pojection2\\Pojection2.csproj|c:\\users\\stepone\\source\\repos\\projects\\pojection2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB46C7-A806-4D57-8693-38DB130FD5A8}|Projection.csproj|C:\\Users\\StepOne\\source\\repos\\Projects\\Projection\\employeesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB46C7-A806-4D57-8693-38DB130FD5A8}|Projection.csproj|solutionrelative:employeesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69ADBF7-BBFC-4F96-9D76-CF5E3D641871}|..\\FunctionalProgramming\\FunctionalProgramming.csproj|c:\\users\\stepone\\source\\repos\\projects\\functionalprogramming\\extentionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB46C7-A806-4D57-8693-38DB130FD5A8}|Projection.csproj|C:\\Users\\StepOne\\source\\repos\\Projects\\Projection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB46C7-A806-4D57-8693-38DB130FD5A8}|Projection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69ADBF7-BBFC-4F96-9D76-CF5E3D641871}|..\\FunctionalProgramming\\FunctionalProgramming.csproj|c:\\users\\stepone\\source\\repos\\projects\\functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69ADBF7-BBFC-4F96-9D76-CF5E3D641871}|..\\FunctionalProgramming\\FunctionalProgramming.csproj|c:\\users\\stepone\\source\\repos\\projects\\functionalprogramming\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69ADBF7-BBFC-4F96-9D76-CF5E3D641871}|..\\FunctionalProgramming\\FunctionalProgramming.csproj|c:\\users\\stepone\\source\\repos\\projects\\functionalprogramming\\repositiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StepOne\\source\\repos\\Projects\\PROJECTIONZIP\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PROJECTIONZIP\\Program.cs",
+              "ToolTip": "C:\\Users\\StepOne\\source\\repos\\Projects\\PROJECTIONZIP\\Program.cs",
+              "RelativeToolTip": "..\\PROJECTIONZIP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:01:39.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StepOne\\source\\repos\\Projects\\Pojection2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Pojection2\\Program.cs",
+              "ToolTip": "C:\\Users\\StepOne\\source\\repos\\Projects\\Pojection2\\Program.cs",
+              "RelativeToolTip": "..\\Pojection2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:28:12.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\StepOne\\source\\repos\\Projects\\Projection\\EmployeesDTO.cs",
+              "RelativeDocumentMoniker": "EmployeesDTO.cs",
+              "ToolTip": "C:\\Users\\StepOne\\source\\repos\\Projects\\Projection\\EmployeesDTO.cs",
+              "RelativeToolTip": "EmployeesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:00:29.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extentionfunctional.cs",
+              "DocumentMoniker": "C:\\Users\\StepOne\\source\\repos\\Projects\\FunctionalProgramming\\Extentionfunctional.cs",
+              "RelativeDocumentMoniker": "..\\FunctionalProgramming\\Extentionfunctional.cs",
+              "ToolTip": "C:\\Users\\StepOne\\source\\repos\\Projects\\FunctionalProgramming\\Extentionfunctional.cs",
+              "RelativeToolTip": "..\\FunctionalProgramming\\Extentionfunctional.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T16:04:08.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repositiory.cs",
+              "DocumentMoniker": "C:\\Users\\StepOne\\source\\repos\\Projects\\FunctionalProgramming\\Repositiory.cs",
+              "RelativeDocumentMoniker": "..\\FunctionalProgramming\\Repositiory.cs",
+              "ToolTip": "C:\\Users\\StepOne\\source\\repos\\Projects\\FunctionalProgramming\\Repositiory.cs",
+              "RelativeToolTip": "..\\FunctionalProgramming\\Repositiory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T16:03:48.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\StepOne\\source\\repos\\Projects\\FunctionalProgramming\\Employees.cs",
+              "RelativeDocumentMoniker": "..\\FunctionalProgramming\\Employees.cs",
+              "ToolTip": "C:\\Users\\StepOne\\source\\repos\\Projects\\FunctionalProgramming\\Employees.cs",
+              "RelativeToolTip": "..\\FunctionalProgramming\\Employees.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T16:03:28.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StepOne\\source\\repos\\Projects\\FunctionalProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FunctionalProgramming\\Program.cs",
+              "ToolTip": "C:\\Users\\StepOne\\source\\repos\\Projects\\FunctionalProgramming\\Program.cs",
+              "RelativeToolTip": "..\\FunctionalProgramming\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T15:05:17.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StepOne\\source\\repos\\Projects\\Projection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\StepOne\\source\\repos\\Projects\\Projection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:50:42.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

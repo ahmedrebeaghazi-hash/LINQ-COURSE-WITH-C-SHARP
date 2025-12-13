@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../FunctionalProgramming/FunctionalProgramming.csproj" Id="f69adbf7-bbfc-4f96-9d76-cf5e3d641871" />
+  <Project Path="../Pojection2/PROJECTIONSELECTMANY.csproj" Id="ec0de58d-3bdc-4ea4-9154-d6b1c4c9de61" />
+  <Project Path="../PROJECTIONZIP/PROJECTIONZIP.csproj" Id="8e8a558e-1f1f-45da-810f-ee26f126c839" />
+  <Project Path="PROJECTIONSELECT.csproj" Id="18db46c7-a806-4d57-8693-38db130fd5a8" />
+</Solution>
